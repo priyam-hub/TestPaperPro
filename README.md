@@ -55,11 +55,6 @@ streamlit run app.py
 This will launch the Streamlit app in your default web browser. From there, you can input the necessary details to generate your customized test paper.
 
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](https://github.com/priyam-hub/TestPaperPro/blob/main/LICENSE) file for more details.
@@ -70,5 +65,11 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](https://gi
 Special thanks to the developers and contributors who have made this project possible.
 
 ---
+
+## Lead Contributors
+
+Priyam Pal - AI and Data Science Engineer
+
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 For more information, visit the [TestPaperPro GitHub Repository](https://github.com/priyam-hub/TestPaperPro).
