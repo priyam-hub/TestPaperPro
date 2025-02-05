@@ -41,7 +41,7 @@ cd TestPaperPro
 
 ```bash
 # Install Dependencies
-Ensure you have Python installed. Then, install the required packages:
+# Ensure you have Python installed. Then, install the required packages:
 pip install -r requirements.txt
 ```
 
